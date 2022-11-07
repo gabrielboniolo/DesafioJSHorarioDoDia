@@ -1,0 +1,34 @@
+body {
+    background-color: rgb(107, 143, 241);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    color: white;
+    text-align: center;
+}
+
+section {
+    background-color: white;
+    border-radius: 10px;
+    padding: 20px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.212);
+}
+
+div.msg {
+    text-align: center;
+}
+
+img#imagem {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+  }
+
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic ;
+}
